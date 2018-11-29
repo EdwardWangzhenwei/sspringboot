@@ -164,6 +164,4 @@ $RECYCLE.BIN/
 demo.iml
 mvnw
 mvnw.cmd
-src/main/java/com/yuhuashang/demo/domain/
-src/main/java/com/yuhuashang/demo/service/
 target/
